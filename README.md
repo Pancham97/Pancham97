@@ -1,4 +1,4 @@
-# Hey fellow `<developer />`! I am Pancham.
+# Hey there! I am Pancham.
 <br />
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Pancham97&label=Views&color=0052cc&style=flat&label=PROFILE+VIEWS" alt="Pancham97" /></p>

@@ -5,9 +5,9 @@
 
 ### About Me 🚀
 
-- Interested in full stack. Recent focus on frontend.
-- I am passionate about Web Dev & I enjoy learning new things.
-- Fun fact: I like to read about Tech, Finance and Investing.
+- I love creating new things and building tools that help solve a problem
+- I am passionate about learning
+- Fun fact: I love to sing, and I also read a lot of tech, philosophy, and psychology
 
 
 ### I usually code in
@@ -15,8 +15,8 @@
 <a href="https://github.com/Pancham97/Pancham97">
   <img
        align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancham97&hide=java,html&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&hide_title=true"
-       alt="Tirth's Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancham97&hide=html,css,php&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&hide_title=true"
+       alt="Pancham's Top Languages"
   />
 </a>
 
@@ -36,7 +36,6 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -45,7 +44,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />

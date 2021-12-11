@@ -9,6 +9,12 @@
 - I am passionate about learning
 - Fun fact: I love to sing, and I also read a lot of tech, philosophy, and psychology
 
+### Certifications
+
+<a href="https://www.credly.com/badges/045e656f-8d60-4e72-8da0-173ddeb91950/public_url">
+  <img src="https://github.com/Pancham97/Pancham-Khaitan/blob/main/public/images/aws-certified-cloud-practitioner.png" width="100" height="100" alt="AWS Certified Cloud Practitioner Badge for Pancham Khaitan">
+</a>
+
 
 ### I usually code in
 

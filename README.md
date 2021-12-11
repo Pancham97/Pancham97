@@ -12,7 +12,7 @@
 ### Certifications
 
 <a href="https://www.credly.com/badges/045e656f-8d60-4e72-8da0-173ddeb91950/public_url">
-  <img src="https://github.com/Pancham97/Pancham-Khaitan/blob/main/public/images/aws-certified-cloud-practitioner.png" width="100" height="100" alt="AWS Certified Cloud Practitioner Badge for Pancham Khaitan">
+  <img src="https://pancham-khaitan.s3.ap-south-1.amazonaws.com/portfolio/images/11bd1f36-921f-4ec3-8fb6-81f1975d8a2c.png" width="100" height="100" alt="AWS Certified Cloud Practitioner Badge for Pancham Khaitan">
 </a>
 
 

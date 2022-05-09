@@ -15,7 +15,7 @@
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" alt="AWS Solutions Architect -- Associate Badge for Pancham Khaitan">
 </a>
 <a href="https://www.credly.com/badges/045e656f-8d60-4e72-8da0-173ddeb91950/public_url">
-  <img src="https://pancham-khaitan.s3.ap-south-1.amazonaws.com/portfolio/images/11bd1f36-921f-4ec3-8fb6-81f1975d8a2c.png" width="100" height="100" alt="AWS Certified Cloud Practitioner Badge for Pancham Khaitan">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner Badge for Pancham Khaitan">
 </a>
 
 

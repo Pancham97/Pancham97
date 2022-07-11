@@ -18,17 +18,6 @@
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner Badge for Pancham Khaitan">
 </a>
 
-
-### I usually code in
-
-<a href="https://github.com/Pancham97/Pancham97">
-  <img
-       align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancham97&hide=html,css,php&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&hide_title=true"
-       alt="Pancham's Top Languages"
-  />
-</a>
-
 ### Statistics
 
 <a href="https://github.com/Pancham97/Pancham97">

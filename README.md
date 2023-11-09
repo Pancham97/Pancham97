@@ -3,11 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Pancham97&label=Views&color=0052cc&style=flat&label=PROFILE+VIEWS" alt="Pancham97" /></p>
 
-### About Me 🚀
-
-- I love creating new things and building tools that help solve a problem
-- I am passionate about learning
-- Fun fact: I love to sing, and I also read a lot of tech, philosophy, and psychology
+I love creating new things and building tools that help solve a problem
 
 ### Certifications
 
@@ -18,36 +14,11 @@
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner Badge for Pancham Khaitan">
 </a>
 
-### Statistics
-
-<a href="https://github.com/Pancham97/Pancham97">
-    <img
-         align="center"
-         src="https://github-readme-stats.vercel.app/api?username=Pancham97&show_icons=true&hide_title=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b3d4ff&bg_color=1d1f21"
-         alt="Pancham's GitHub Stats"
-    />
-</a>
-
 ### Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pancham97&theme=dark&hide_border=true&hide_border=true&ring=B3D4FFF1&fire=B3D4FFF1&currStreakLabel=B3D4FFF1)](https://git.io/streak-stats)
 
-### Languages and Tools
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-
 ### Connect with me
-
 
 [<img align="left" alt="Pancham | LinkedIn" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-512.png"/>][linkedin]
 

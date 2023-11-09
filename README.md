@@ -13,15 +13,3 @@ I love creating new things and building tools that help solve a problem
 <a href="https://www.credly.com/badges/045e656f-8d60-4e72-8da0-173ddeb91950/public_url">
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner Badge for Pancham Khaitan">
 </a>
-
-### Contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pancham97&theme=dark&hide_border=true&hide_border=true&ring=B3D4FFF1&fire=B3D4FFF1&currStreakLabel=B3D4FFF1)](https://git.io/streak-stats)
-
-### Connect with me
-
-[<img align="left" alt="Pancham | LinkedIn" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-512.png"/>][linkedin]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/panchamkhaitan/
